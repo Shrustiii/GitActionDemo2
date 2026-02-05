@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author shrustishah
+ * @author Shrusti Shah
  */
 public class UnitTestDemoTest {
     
